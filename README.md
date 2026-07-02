@@ -104,7 +104,12 @@ python -m vllm.entrypoints.openai.api_server \
 - Improve multilingual performance.
 
 ---
+## Hugging Face Model
+
+https://huggingface.co/prudvireddy-hug/vedaz-qwen2.5-astrologer
+
+---
 
 ## Author
 
-Prudhvi Reddy
+Allagadda Prudvi Reddy
