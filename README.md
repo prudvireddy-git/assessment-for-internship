@@ -104,7 +104,9 @@ python -m vllm.entrypoints.openai.api_server \
 - Improve multilingual performance.
 
 ---
-## Hugging Face Model
+## Model
+
+Fine-tuned model is available on Hugging Face:
 
 https://huggingface.co/prudvireddy-hug/vedaz-qwen2.5-astrologer
 
